@@ -3,6 +3,6 @@ def my_name_is():
 
 
 # comment from wtccjava
-# comment from palaheel76
+# and another from wtccjava
 def main():
     print(my_name_is())
