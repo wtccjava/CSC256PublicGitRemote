@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fddd3a1e-2cb3-4a9e-bb03-d935bc77147e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitremote/whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/whats_my_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
