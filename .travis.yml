@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+language: python
+python:
+ - "3.6"
+ - "nightly"
+install:
+ - "pip install pytest"
+ - "pip install -r requirements.txt"
+script: python -m pytest gitremote
+=======
+language: python
+python:
+ - "3.6"
+ - "nightly"
+install:
+ - "pip install pytest"
+ - "pip install -r requirements.txt"
+script: python -m pytest gitremote
+>>>>>>> ad9f7d5774223db70a2979cc5a771a52276001e1
