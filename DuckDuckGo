@@ -1,0 +1,19 @@
+import pytest
+import requests
+
+presidents_list = ['Lincoln','Jackson','Johnson','Obama','Harrison','Clinton','Coolidge','Arthur','Trump','Eisenhower',
+                  'Roosevelt','Pierce','Bush','Washington','Ford','Cleveland','Truman','Hoover','Garfield','Buchanan','Polk',
+                  'Madison','Monroe','Carter','Adams','Kennedy','Tyler','Fillmore','Nixon','Reagan','Hayes','Jefferson',
+                  'Grant','Harding','Harrison','Taft','McKinley','Wilson','Taylor']
+
+url = 'https://api.duckduckgo.com/?q=presidents+of+the+united+states&ia=web&format=json'
+response = requests.get(url)
+presidents = [t["Text"] for t in response.json()['RelatedTopics']]
+
+
+def test_duck_duck_go():
+    j = 0
+    for i in range(len(presidents)):
+        if presidents_list[j] in presidents[i]:
+            assert presidents_list[j] in presidents[i]
+            j += 1
