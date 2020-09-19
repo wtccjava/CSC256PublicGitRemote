@@ -1,7 +1,6 @@
 def my_name_is():
-    return "palaheel76"
+    return "Hubert Blaine Wolfeschlegelsteinhausenbergerdorff Sr."
 
 
-# palaheel76 doesn't want any comments
 def main():
     print(my_name_is())
