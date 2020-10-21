@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/gitremote/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitremote/whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/whats_my_name.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,9 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\pub\git\CSC256Public" />
     </key>
@@ -88,7 +92,7 @@
       <workItem from="1562956237586" duration="124000" />
       <workItem from="1562957497511" duration="1434000" />
       <workItem from="1600581338750" duration="439000" />
-      <workItem from="1603291868419" duration="1649000" />
+      <workItem from="1603291868419" duration="2700000" />
     </task>
     <servers />
   </component>
