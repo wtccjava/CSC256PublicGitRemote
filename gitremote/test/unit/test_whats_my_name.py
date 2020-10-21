@@ -4,4 +4,4 @@ from gitremote.whats_my_name import my_name_is
 
 
 def test_my_name_is():
-    assert "aflackus" == my_name_is()
+    assert "aflackuss" == my_name_is()
