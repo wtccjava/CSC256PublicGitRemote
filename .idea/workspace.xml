@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitremote/whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/whats_my_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +90,7 @@
       <workItem from="1600657155402" duration="552000" />
       <workItem from="1600662898887" duration="28000" />
       <workItem from="1603333785970" duration="122000" />
+      <workItem from="1603377997743" duration="870000" />
     </task>
     <servers />
   </component>
@@ -120,6 +120,7 @@
     <state width="817" height="311" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1603333877943" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test_whats_my_name_py$pytest_for_test_whats_my_name_test_my_name_is.coverage" NAME="pytest for test_whats_my_name.test_my_name_is Coverage Results" MODIFIED="1603378931388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gitremote/test/unit" />
     <SUITE FILE_PATH="coverage/CSC256Public$pytest_for_test_whats_my_name_test_my_name_is.coverage" NAME="pytest for test_whats_my_name.test_my_name_is Coverage Results" MODIFIED="1562955458462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gitremote/test/unit" />
     <SUITE FILE_PATH="coverage/CSC256PublicGitRemote$pytest_for_test_whats_my_name_test_my_name_is.coverage" NAME="pytest for test_whats_my_name.test_my_name_is Coverage Results" MODIFIED="1600657418713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gitremote/test/unit" />
     <SUITE FILE_PATH="coverage/whats_my_name_py$pytest_for_test_whats_my_name_test_my_name_is.coverage" NAME="pytest for test_whats_my_name.test_my_name_is Coverage Results" MODIFIED="1603333868024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gitremote/test/unit" />
