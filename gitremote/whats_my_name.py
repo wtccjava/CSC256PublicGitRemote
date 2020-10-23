@@ -1,5 +1,5 @@
 def my_name_is():
-    return "smjoshi2@my.waketech.edu"
+    return "smjoshi@my.waketech.edu"
 
 
 # palaheel76 doesn't want any comments
