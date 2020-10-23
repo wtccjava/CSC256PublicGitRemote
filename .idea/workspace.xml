@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/gitremote/whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/whats_my_name.py" afterDir="false" />
+    <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="made changes to .travis.yml file">
+      <change beforePath="$PROJECT_DIR$/.idea/CSC256Public.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CSC256Public.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +24,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1jHRs6TTx7eWsQb7bkgxWBTVFDp" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1948" />
+    <option name="y" value="248" />
+    <option name="width" value="1187" />
+    <option name="height" value="693" />
+  </component>
+  <component name="ProjectId" id="1hhEJzCHPEjpFkqXlCjCGQgLHzz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,7 +57,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="pytest for test_whats_my_name.test_my_name_is" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_whats_my_name.test_my_name_is" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="CSC256Public" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +74,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python tests.pytest for test_whats_my_name.test_my_name_is" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -87,23 +90,50 @@
       <workItem from="1562956237586" duration="124000" />
       <workItem from="1562957497511" duration="1434000" />
     </task>
+    <task id="LOCAL-00001" summary="made changes to .travis.yml file">
+      <created>1603425213972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603425213972</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="pytest_for_test_whats_my_name_test_my_name_is - 2019.07.12 at 15h 04m 59s.xml">
-      <configuration name="pytest for test_whats_my_name.test_my_name_is" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_whats_my_name_test_my_name_is - 2019.07.12 at 15h 06m 18s.xml">
-      <configuration name="pytest for test_whats_my_name.test_my_name_is" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_whats_my_name_test_my_name_is - 2019.07.12 at 15h 06m 59s.xml">
-      <configuration name="pytest for test_whats_my_name.test_my_name_is" configurationId="tests" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="1901000" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="made changes to .travis.yml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="made changes to .travis.yml file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="130" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600455090030">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="828" y="130" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1600455090030" />
+    <state x="1108" y="117" key="#pytest_for_test_whats_my_name.test_my_name_is" timestamp="1600455106774">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1108" y="117" key="#pytest_for_test_whats_my_name.test_my_name_is/0.0.1920.1160@0.0.1920.1160" timestamp="1600455106774" />
+    <state x="907" y="225" key="CommitChangelistDialog2" timestamp="1603425213268">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="907" y="225" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1603425213268" />
+    <state x="1108" y="237" key="EnvironmentVariablesDialog" timestamp="1600455077326">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1108" y="237" key="EnvironmentVariablesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1600455077326" />
+    <state x="1161" y="230" key="FileChooserDialogImpl" timestamp="1600455274757">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1161" y="230" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1600455274757" />
+    <state x="885" y="118" key="SettingsEditor" timestamp="1600455281918">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="885" y="118" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1600455281918" />
   </component>
 </project>
