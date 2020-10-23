@@ -1,5 +1,5 @@
 def my_name_is():
-    return "wrong name"
+    return "jthomas22"
 
 # palaheel76 doesn't want any comments
 def main():
