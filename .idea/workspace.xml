@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="" />
+    <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,14 +23,15 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1948" />
-    <option name="y" value="248" />
-    <option name="width" value="1187" />
-    <option name="height" value="693" />
-  </component>
+  <component name="ProjectId" id="1jIoMVa6eb09fsV6JHE7HO0wnLP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -120,9 +124,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600476571357" />
-    <state x="559" y="57" key="SettingsEditor" timestamp="1600476631408">
+    <state x="559" y="57" key="SettingsEditor" timestamp="1603501166233">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="559" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600476631408" />
+    <state x="559" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603501166233" />
   </component>
 </project>
