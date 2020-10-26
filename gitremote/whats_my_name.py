@@ -1,5 +1,5 @@
 def my_name_is():
-    return "articuno"
+    return "zapdos"
 
 def main():
     print(my_name_is())
