@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="" />
+    <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/CSC256Public.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CSC256Public.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Group Project/Team15_Retirement/Team_15_Retirement_Solution" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -46,7 +53,28 @@
       <recent name="C:\pub\git\CSC256Public" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.pytest for test_whats_my_name.test_my_name_is">
+    <configuration name="whats_my_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSC256Public" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gitremote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gitremote/whats_my_name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test_whats_my_name.test_my_name_is" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="CSC256Public" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,6 +95,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.pytest for test_whats_my_name.test_my_name_is" />
+        <item itemvalue="Python.whats_my_name" />
       </list>
     </recent_temporary>
   </component>
@@ -87,17 +116,6 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="pytest_for_test_whats_my_name_test_my_name_is - 2019.07.12 at 15h 04m 59s.xml">
-      <configuration name="pytest for test_whats_my_name.test_my_name_is" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_whats_my_name_test_my_name_is - 2019.07.12 at 15h 06m 18s.xml">
-      <configuration name="pytest for test_whats_my_name.test_my_name_is" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_whats_my_name_test_my_name_is - 2019.07.12 at 15h 06m 59s.xml">
-      <configuration name="pytest for test_whats_my_name.test_my_name_is" configurationId="tests" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="1901000" />
   </component>
@@ -109,5 +127,21 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1061" y="455" key="FileChooserDialogImpl/0.0.2560.1400/-1080.0.1080.1880/3840.415.1920.1040@0.0.2560.1400" timestamp="1600467110699" />
+    <state width="2539" height="408" key="GridCell.Tab.0.bottom" timestamp="1603740475737">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="408" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1080.0.1080.1880/3840.415.1920.1040@0.0.2560.1400" timestamp="1603740475737" />
+    <state width="2539" height="408" key="GridCell.Tab.0.center" timestamp="1603740475737">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="408" key="GridCell.Tab.0.center/0.0.2560.1400/-1080.0.1080.1880/3840.415.1920.1040@0.0.2560.1400" timestamp="1603740475737" />
+    <state width="2539" height="408" key="GridCell.Tab.0.left" timestamp="1603740475737">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="408" key="GridCell.Tab.0.left/0.0.2560.1400/-1080.0.1080.1880/3840.415.1920.1040@0.0.2560.1400" timestamp="1603740475737" />
+    <state width="2539" height="408" key="GridCell.Tab.0.right" timestamp="1603740475737">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="408" key="GridCell.Tab.0.right/0.0.2560.1400/-1080.0.1080.1880/3840.415.1920.1040@0.0.2560.1400" timestamp="1603740475737" />
   </component>
 </project>
