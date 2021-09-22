@@ -1,6 +1,6 @@
 def my_name_is():
     return "Peter"
-
+# some note
 
 # palaheel76 doesn't want any comments
 def main():
