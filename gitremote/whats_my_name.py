@@ -1,5 +1,5 @@
 def my_name_is():
-    return "Kenobi"
+    return "Obi-Wan Kenobi"
 # some note
 
 # palaheel76 doesn't want any comments
