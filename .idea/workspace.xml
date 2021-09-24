@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="" />
+    <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitremote/whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/whats_my_name.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +89,7 @@
       <recent name="C:\pub\git\CSC256Public" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_whats_my_name.py">
+  <component name="RunManager" selected="Python tests.pytest for test_whats_my_name.test_my_name_is">
     <configuration name="pytest for test_whats_my_name.test_my_name_is" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="CSC256Public" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,8 +125,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_whats_my_name.py" />
         <item itemvalue="Python tests.pytest for test_whats_my_name.test_my_name_is" />
+        <item itemvalue="Python tests.pytest in test_whats_my_name.py" />
       </list>
     </recent_temporary>
   </component>
