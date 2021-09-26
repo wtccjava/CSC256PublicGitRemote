@@ -1,6 +1,6 @@
 #Returns email address
 def my_name_is():
-    return "ldcollins@my.waketech.edu"
+    return "Sophie"
 
 
 # palaheel76 doesn't want any comments
