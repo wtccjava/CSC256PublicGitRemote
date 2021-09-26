@@ -1,6 +1,6 @@
 import pytest
 
-from whats_my_name import my_name_is
+from C:\GitFork\CSC256PublicGitRemote\gitremote\test\unit\whats_my_name.py import my_name_is
 
 
 def test_my_name_is():
