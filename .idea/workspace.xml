@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="" />
+    <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitremote/whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/whats_my_name.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +32,10 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hello\Documents\GitHub\CSC256PublicGitRemote" />
+      <recent name="C:\Users\hello\Documents\GitHub\CSC256PublicGitRemote\gitremote" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\pub\git\CSC256Public" />
     </key>
@@ -89,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632677775172</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added .travis">
+      <created>1632678023966</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632678023966</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added .travis">
+      <created>1632678105923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632678105923</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
