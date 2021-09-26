@@ -1,0 +1,8 @@
+langguage: python
+python:
+ - "3.6"
+ - "nightly"
+install:
+ - "pip install pytest"
+ - "pip install -r requirements.txt"
+Script: python -m pytest gitremote
